@@ -37,7 +37,7 @@ def euclid(num1, num2):
         gcd = 1
     else:
         gcd = num2
-    print("FINAL : ",gcd)
+    
     return gcd # your GCD
 
 '''
